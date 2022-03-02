@@ -1,0 +1,136 @@
+html {
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
+    overflow-x: hidden;
+
+}
+
+html::-webkit-scrollbar {
+    width: 0px; /* For Chrome, Safari, and Opera */
+}
+
+body{
+    background-color: white;
+    cursor : url("cursorprueba.png"), auto;
+}
+
+h1 {
+    font-family: 'Karla', sans-serif;
+    color: black;
+    font-size: 28px;
+}
+
+h2 {
+    font-family: 'Karla', sans-serif;
+    color: black;
+    font-size: 28px;
+    margin-top: 30%;
+}
+
+
+h4 {
+    font-family: 'Karla', sans-serif;
+    color: black;
+    font-size: 28px;
+    text-decoration: underline;
+    margin-top: 18px;
+}
+
+
+h5 {
+    font-family: 'Karla', sans-serif;
+    color: black;
+    font-size: 17px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+    text-align:justify;
+}
+
+.font {
+    font-family: 'Xanh Mono', monospace;
+    color: black;
+    font-size: 17px;
+}
+
+.font2 {
+    font-family: 'Xanh Mono', monospace;
+    color: black;
+    font-size: 28px;
+}
+
+
+
+
+#marginTop {
+    z-index: 99;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#marginT {
+    margin-top: -10px;
+}
+#indexLogo {
+    margin-top: 10px;
+    width: 200px;
+ 
+    
+}
+
+#marginLeftFlower {
+
+    margin-top: 15px;
+    margin-left: 5%;
+}
+
+#MTOP {
+    margin-top: 200px;
+}
+
+#log {
+    width: 220px;
+}
+
+
+#flor {
+    width: 20px;
+}
+
+
+#florLEFT{
+    width: 20px;
+
+}
+
+
+
+#border {
+    z-index: 9999;
+    height: 55px;
+    width: 102%;
+    border-style: solid;
+    background-color: white;
+    position: fixed;
+}
+
+a {
+    color: black;
+    text-decoration: none; /* no underline */
+  }
+
+a:hover{
+    color: black;
+    text-decoration: none;
+
+}
+
+#normalMargin {
+    margin-top: 30px;
+  
+}
+
+#marginTAdina {
+    margin-top: 185px;
+}
+
+
+
